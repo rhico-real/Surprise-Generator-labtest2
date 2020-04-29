@@ -1,0 +1,28 @@
+.container-1{
+  width: 60%;
+  border: 0.5px solid black;
+  margin-top: 2rem;
+}
+
+hr{
+  border: 0.5px solid gray;
+}
+
+.button{
+  margin-bottom: 2rem;
+}
+
+.btn{
+  font-size: 150%;
+}
+
+.generate{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+}
+
+.generate img{
+  width: 350px;
+  padding: 1rem;
+}
